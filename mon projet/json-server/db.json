@@ -1,0 +1,58 @@
+{
+  "Livraison": [
+    {
+      "id": "1",
+      "fournisseur": "Jumia",
+      "produit": " XIAOMI Mibro X1",
+      "categorie": "Telephone Portable",
+      "quantité": "10"
+    },
+    {
+      "id": "2",
+      "fournisseur": "Amazon",
+      "produit": "Lenovo thinkpad x220",
+      "categorie": "Telephone Portable",
+      "quantité": "7"
+    },
+    {
+      "id": "3",
+      "fournisseur": "Jumia",
+      "produit": "Nike Renew Elevate 3",
+      "categorie": "Chaussures",
+      "quantité": "7"
+    }
+  ],
+  "commandes": [
+    {
+      "id": "4",
+      "nomfournisseur": "Yassir",
+      "nomproduit": "Huawei P30",
+      "categorie": "Telephone Portable",
+      "quantité": "5"
+    },
+    {
+      "id": "3",
+      "nomfournisseur": "Jumia",
+      "nomproduit": "Huawei P30",
+      "categorie": "Telephone Portable",
+      "quantité": "10"
+    },
+    {
+      "id": "2",
+      "nomfournisseur": "Yassir",
+      "nomproduit": "Nike Renew Elevate 3",
+      "categorie": "Chaussures",
+      "quantité": "5"
+    },
+    {
+      "id": "1",
+      "nomfournisseur": "Amazon",
+      "nomproduit": "Nike Renew Elevate 3",
+      "categorie": "Chaussures",
+      "quantité": "10"
+    }
+    	
+
+
+  ]
+}
